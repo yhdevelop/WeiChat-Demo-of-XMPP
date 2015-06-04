@@ -1,0 +1,21 @@
+//
+//  task.pch
+//  微信
+//
+//  Created by YangHao on 15/5/10.
+//  Copyright (c) 2015年 YangHao. All rights reserved.
+//
+
+#ifndef ___task_pch
+#define ___task_pch
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+#define kScreenWidth  [UIScreen mainScreen].bounds.size.width
